@@ -28,12 +28,6 @@
   
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>https://zhangshjie.github.io/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[Jmeter]]></title>
       <url>https://zhangshjie.github.io/Jmeter/index.html</url>
       <content type="html"></content>
@@ -42,6 +36,12 @@
     <entry>
       <title><![CDATA[tags]]></title>
       <url>https://zhangshjie.github.io/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[categories]]></title>
+      <url>https://zhangshjie.github.io/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
